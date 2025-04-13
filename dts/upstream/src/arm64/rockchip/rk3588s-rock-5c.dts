@@ -278,7 +278,10 @@
 	};
 };
 
-&hdptxphy_hdmi0 {
+// &hdptxphy_hdmi0 {
+// 	status = "okay";
+// };
+&hdptxphy0_grf {
 	status = "okay";
 };
 
